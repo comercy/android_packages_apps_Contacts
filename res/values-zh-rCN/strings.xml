@@ -393,14 +393,14 @@
     <string name="recent_calls_clear_outgoing">去电</string>
     <string name="recent_calls_clear_missed">未接来电</string>
     <string name="alert_clear_call_log_title">清除通话记录</string>
-    <string name="alert_clear_call_log_message">确定清除所有通话记录？</string>
-    <string name="alert_clear_cl_all_incoming">确定清除所有来电通话记录？</string>
-    <string name="alert_clear_cl_all_outgoing">确定清除所有去电通话记录？</string>
-    <string name="alert_clear_cl_all_missed">确定清除所有未接来电通话记录？</string>
+    <string name="alert_clear_call_log_message">确认清除所有通话记录？</string>
+    <string name="alert_clear_cl_all_incoming">确认清除所有来电通话记录？</string>
+    <string name="alert_clear_cl_all_outgoing">确认清除所有去电通话记录？</string>
+    <string name="alert_clear_cl_all_missed">确认清除所有未接来电通话记录？</string>
 
     <!-- Wysie: Favourites strings -->
     <string name="fav_clear_freq">清除常用联系人</string>
-    <string name="alert_clear_freq_called_msg">确定清除所有常用联系人？</string>
+    <string name="alert_clear_freq_called_msg">确认清除所有常用联系人？</string>
 
     <!-- Wysie: Preferences strings -->
     
