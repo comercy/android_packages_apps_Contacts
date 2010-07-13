@@ -432,7 +432,7 @@
     <string name="summaryoff_cl_exact_time">在通话记录中显示相对时间</string>
     <string name="title_cl_show_seconds">显示秒</string>
     <string name="summary_cl_show_seconds">在显示具体时间时精确到秒</string>
-    <string name="title_cl_ask_before_clear">清除时需确认</string>
+    <string name="title_cl_ask_before_clear">清除时需要确认</string>
     <string name="summaryon_cl_ask_before_clear">在清除通话记录时需要确认</string>
     <string name="summaryoff_cl_ask_before_clear">在清除通话记录时不需确认</string>
  
