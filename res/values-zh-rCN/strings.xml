@@ -415,7 +415,7 @@
     <string name="summaryoff_use_1_for_reg_vm">按键1根据语音邮箱设定拨打语音邮箱</string>
     <string name="title_disable_num_check">禁止号码检测</string>
     <string name="summaryon_disable_num_check">左按钮及菜单总是有效</string>
-    <string name="summaryoff_disable_num_check">左按钮及菜单仅在至少输入一位号码后有效 ( 语音邮箱除外 )</string>
+    <string name="summaryoff_disable_num_check">左按钮及菜单仅在至少输入一位号码后有效 (语音邮箱除外)</string>
     <string name="title_enable_haptic_feedback">开启震动反馈</string>
     <string name="summary_enable_haptic_feedback">轻击拨号键盘有震动反馈 - 在 CyanogenMod 设定中调节</string>
     <string name="title_change_digits_color">更改数字颜色</string>
@@ -450,12 +450,12 @@
     <string name="title_view_contact">查看联系人</string>
     <string name="summary_view_contact">更改查看单个联系人时的设定</string>
     <string name="title_show_text_mobile_only">为手机号码显示短信按钮</string>
-    <string name="summaryon_show_text_mobile_only">只在有手机号码时才显示短信按钮</string>
+    <string name="summaryon_show_text_mobile_only">仅在有手机号码时才显示短信按钮</string>
     <string name="summaryoff_show_text_mobile_only">只要有电话号码都显示短信按钮</string>
 
 	<!-- Preferences: Favourites -->
     <string name="title_favourites_hide_freq_call">隐藏常用联系人</string>
-    <string name="summary_favourites_hide_freq_call">联系人信息并不会被清除，只是被隐藏。</string>
+    <string name="summary_favourites_hide_freq_call">隐藏而不是清除常用联系人信息</string>
     <string name="title_favs_ask_before_clear">清除时需确认</string>
     <string name="summaryon_favs_ask_before_clear">在清除常用联系人时需要确认</string>
     <string name="summaryoff_favs_ask_before_clear">在清除常用联系人时不需确认</string>
