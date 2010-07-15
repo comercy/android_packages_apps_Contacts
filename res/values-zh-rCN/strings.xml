@@ -408,16 +408,16 @@
     <string name="title_last_dialled">按拨号按钮时重拨</string>
     <string name="summary_last_dialled">未输入电话号码按拨号按钮时将重播最后一个去电电话号码</string>
     <string name="title_return_to_dialer">通话结束后返回拨号面板</string>
-    <string name="title_vm_button">左按钮(LAB)</string>
+    <string name="title_vm_button">左按钮 (LAB)</string>
     <string name="title_vm_handler">语音邮箱设定</string>
-    <string name="title_use_1_for_reg_vm">1为默认语音邮箱</string>
-    <string name="summaryon_use_1_for_reg_vm">按键1将被设定为默认语音邮箱</string>
-    <string name="summaryoff_use_1_for_reg_vm">按键1将根据语音邮箱设定而变化</string>
+    <string name="title_use_1_for_reg_vm">按键1使用系统语音邮箱</string>
+    <string name="summaryon_use_1_for_reg_vm">按键1根据系统设置拨打语音邮箱</string>
+    <string name="summaryoff_use_1_for_reg_vm">按键1根据语音邮箱设定拨打语音邮箱</string>
     <string name="title_disable_num_check">禁止号码检测</string>
-    <string name="summaryon_disable_num_check">左按钮(LAB)及菜单总是有效</string>
-    <string name="summaryoff_disable_num_check">左按钮(LAB)及菜单仅在至少输入一个号码后有效(除语音邮箱外)</string>
+    <string name="summaryon_disable_num_check">左按钮及菜单总是有效</string>
+    <string name="summaryoff_disable_num_check">左按钮及菜单仅在至少输入一位号码后有效 ( 语音邮箱除外 )</string>
     <string name="title_enable_haptic_feedback">开启震动反馈</string>
-    <string name="summary_enable_haptic_feedback">轻击拨号键盘有震动反馈 - 在CyanogenMod设定中调节</string>
+    <string name="summary_enable_haptic_feedback">轻击拨号键盘有震动反馈 - 在 CyanogenMod 设定中调节</string>
     <string name="title_change_digits_color">更改数字颜色</string>
     <string name="title_digits_color_pressed">数字颜色(点击时)</string>
     <string name="title_digits_color_focused">数字颜色(已输入)</string>
@@ -441,17 +441,17 @@
     <string name="title_contacts_show_dial_button">显示拨号按钮</string>
     <string name="summary_contacts_show_dial_button">为有电话号码的联系人显示拨号按钮</string>
     <string name="title_contacts_show_count">显示联系人数量</string>
-    <string name="summary_contacts_show_count">联系人的数量将会显示在联系人列表之上</string>
-    <string name="title_contacts_show_separators">显示联系人排序首字母</string>
-    <string name="summaryon_contacts_show_separators">将会在联系人列表中显示用于为联系人排序的首字母</string>
-    <string name="summaryoff_contacts_show_separators">将不会在联系人列表中显示用于为联系人排序的首字母</string>
+    <string name="summary_contacts_show_count">联系人的数量将会显示在联系人列表之前</string>
+    <string name="title_contacts_show_separators">显示联系人排序字母</string>
+    <string name="summaryon_contacts_show_separators">在联系人列表中显示排序字母</string>
+    <string name="summaryoff_contacts_show_separators">不在联系人列表中显示排序字母</string>
 
      <!-- Preferences: Contacts - View Contact -->
     <string name="title_view_contact">查看联系人</string>
     <string name="summary_view_contact">更改查看单个联系人时的设定</string>
-    <string name="title_show_text_mobile_only">只为手机号码显示短信按钮</string>
+    <string name="title_show_text_mobile_only">为手机号码显示短信按钮</string>
     <string name="summaryon_show_text_mobile_only">只在有手机号码时才显示短信按钮</string>
-    <string name="summaryoff_show_text_mobile_only">只要有号码都显示短信按钮</string>
+    <string name="summaryoff_show_text_mobile_only">只要有电话号码都显示短信按钮</string>
 
 	<!-- Preferences: Favourites -->
     <string name="title_favourites_hide_freq_call">隐藏常用联系人</string>
@@ -463,7 +463,7 @@
     <!-- Preferences: Misc -->
     <string name="title_misc_category">其他设定</string>
     <string name="title_sensor_rotation">使用重力感应</string>
-    <string name="summary_sensor_rotation">如果允许该项，拨号面板将会根据设定旋转方向"</string>
+    <string name="summary_sensor_rotation">拨号面板将会根据系统设定旋转方向"</string>
     
     <!-- Wysie: About strings -->
     <string name="title_about">关于</string>
